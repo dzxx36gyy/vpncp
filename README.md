@@ -1,6 +1,11 @@
 vpncp
 =====
 
+TIPS：近期准备上新版本，颤抖吧。
+
+
+<img src="http://i2.tietuku.com/ccbb5884d8d8a9fa.png" alt="New Version" />
+
 Freeradius VPN Control Panel 
 
 说明：<br />
