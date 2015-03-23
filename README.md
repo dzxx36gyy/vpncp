@@ -3,8 +3,12 @@ vpncp
 
 TIPS：近期准备上新版本，颤抖吧。
 
+Next Version:
 
 <img src="http://i2.tietuku.com/ccbb5884d8d8a9fa.png" alt="New Version" />
+
+Supprot: Freeradius Shadowsocks One-click 
+
 
 Freeradius VPN Control Panel 
 
